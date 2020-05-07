@@ -27,7 +27,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <dl>
   <dt>Created By:</dt>
-  <dd>Marjuk Ahmed Siddiki
+    Marjuk Ahmed Siddiki
+  
     Computer Science Engineering
-    Daffodil International University</dd>
+    
+    Daffodil International University
 </dl>
